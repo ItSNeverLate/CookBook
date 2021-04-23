@@ -37,6 +37,16 @@ class CustomDrawer extends StatelessWidget {
               Navigator.pushNamed(context, '/orientation');
             },
           ),
+          ListTile(
+            title: Text(
+              'Tabs',
+              style: TextStyle(fontSize: 16, fontWeight: FontWeight.w700),
+            ),
+            onTap: () {
+              Navigator.pop(context);
+              Navigator.pushNamed(context, '/tabs');
+            },
+          ),
         ],
       ),
     );
