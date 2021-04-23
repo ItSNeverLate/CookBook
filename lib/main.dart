@@ -15,6 +15,13 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Cook Book',
       initialRoute: '/',
+      theme: ThemeData(
+        primaryColor: Colors.red,
+        accentColor: Colors.purple,
+        textTheme: TextTheme(
+          subtitle1: TextStyle(color: Colors.blue)
+        )
+      ),
       routes: {
         '/': (context) => HomeScreen(),
         '/orientation': (context) => OrientationScreen(),
