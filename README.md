@@ -11,7 +11,6 @@ Drawer  | Snack Bar | Portrait | Landscape
 
 Custom Font  | Theme | Next recipe ... | Next recipe ... | Next recipe ... |  
 ------------- | -------------  | -------------  | -------------  | -------------  |
-![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png) | ![theme](https://user-images.githubusercontent.com/50651962/115880940-7d3e9080-a460-11eb-970a-141c405b3083.png)
-|![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png)  | ![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png) | ![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png)
+![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png) | ![theme](https://user-images.githubusercontent.com/50651962/115880940-7d3e9080-a460-11eb-970a-141c405b3083.png)|![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png)  | ![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png) | ![font](https://user-images.githubusercontent.com/50651962/115844690-53bc3f80-a435-11eb-8094-9058c761c57a.png)
 
 
