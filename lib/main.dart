@@ -15,8 +15,10 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Cook Book',
       initialRoute: '/',
       theme: ThemeData(
-          primaryColor: Colors.red,
-          accentColor: Colors.purple,
+          primaryColor: const Color(0xff43a047),
+          primaryColorDark: const Color(0xff00701a),
+          primaryColorLight: const Color(0xff76d275),
+          accentColor: const Color(0xffff8f00),
           textTheme: TextTheme(subtitle1: TextStyle(color: Colors.blue))),
       routes: {
         '/': (context) => HomeScreen(),
